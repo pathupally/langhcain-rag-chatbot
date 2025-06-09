@@ -1,0 +1,32 @@
+
+    Retrieval-Augmented Generation (RAG)
+    
+    Retrieval-Augmented Generation (RAG) is a technique that combines the power of large language models with external knowledge retrieval. This approach enhances the capabilities of language models by allowing them to access and reference specific information from external sources.
+    
+    Key Components of RAG:
+    
+    1. Document Loading: The process of importing documents from various sources (PDFs, text files, databases, etc.)
+    
+    2. Text Chunking: Breaking down large documents into smaller, manageable pieces that can be effectively processed and retrieved
+    
+    3. Embedding Generation: Converting text chunks into numerical vectors that capture semantic meaning
+    
+    4. Vector Storage: Storing embeddings in a vector database (like FAISS) for efficient similarity search
+    
+    5. Retrieval: Finding the most relevant document chunks based on user queries
+    
+    6. Generation: Using the retrieved context along with the user's question to generate accurate, grounded responses
+    
+    Benefits of RAG:
+    - Provides up-to-date information
+    - Reduces hallucinations
+    - Improves accuracy with domain-specific knowledge
+    - Enables traceability to source documents
+    - Allows for easy knowledge updates
+    
+    Common Use Cases:
+    - Customer support chatbots
+    - Research assistants
+    - Document Q&A systems
+    - Knowledge management systems
+    
