@@ -51,7 +51,7 @@ nano .env  # or use your preferred editor
 Add your OpenAI API key to the `.env` file:
 ```env
 OPENAI_API_KEY=sk-your-openai-api-key-here
-OPENAI_MODEL_NAME=gpt-3.5-turbo
+OPENAI_MODEL_NAME=gpt-4.1
 ```
 
 ### 3. Add Your Documents
