@@ -27,7 +27,7 @@ A fully self-contained Retrieval-Augmented Generation (RAG) chatbot built with L
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/pathupally/langhcain-rag-chatbot
 cd langchain-local-rag-chatbot
 
 # Create virtual environment
